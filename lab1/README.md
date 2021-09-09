@@ -23,4 +23,6 @@
         assertFalse(isBirthday);
     }
 
+### Результат при запуску:
+![Результат](https://github.com/brunoauditore/NULP_QA/edit/main/lab1/image.png)
 
