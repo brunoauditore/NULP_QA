@@ -24,5 +24,5 @@
     }
 
 ### Результат при запуску:
-!(https://github.com/brunoauditore/NULP_QA/edit/main/lab1/image.png)
+![](https://github.com/brunoauditore/NULP_QA/edit/main/lab1/image.png)
 
